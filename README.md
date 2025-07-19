@@ -56,4 +56,4 @@ pip install -r requirements.txt
 echo "GROQ_API_KEY=your_groq_key" > .env
 
 
-for simple use in you refer the `Wundrsight_Assignment.ipynb` in colab that
+"for simple use in you refer the `Wundrsight_Assignment.ipynb` in ##colab"
